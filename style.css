@@ -1,0 +1,15 @@
+body
+{
+  color: rgb(0, 0, 0);
+  background: red;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
